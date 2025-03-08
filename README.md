@@ -3,13 +3,17 @@
 Welcome to my 42/1337 projects hub! Below is a list of all my projects organized by circle or category.
 
 ## Circle 00
-- **[Libft](https://github.com/Redadaghouj/42-libft_1337)**: My own library of standard C functions.  
+- **[Libft](https://github.com/Redadaghouj/42-libft_1337)**: My own library of standard C functions.
+
   ![Libft](https://img.shields.io/badge/Status-Completed-brightgreen) ![Libft](https://img.shields.io/badge/Grade-125%2F100-success)
 
 ## Circle 01
-- **[Get Next Line](https://github.com/Redadaghouj/42-get_next_line_1337)**: Reading a line from a file descriptor.  
+- **[Get Next Line](https://github.com/Redadaghouj/42-get_next_line_1337)**: Reading a line from a file descriptor.
+
   ![Get Next Line](https://img.shields.io/badge/Status-Completed-brightgreen) ![Get Next Line](https://img.shields.io/badge/Grade-125%2F100-success)
-- **[ft_printf](https://github.com/Redadaghouj/42-ft_printf_1337)**: Recreating the printf function in C.  
+
+- **[ft_printf](https://github.com/Redadaghouj/42-ft_printf_1337)**: Recreating the printf function in C.
+
   ![ft_printf](https://img.shields.io/badge/Status-In_Progress-orange) ![ft_printf](https://img.shields.io/badge/Grade-100%2F100-success)
 
 ## Circle 02
