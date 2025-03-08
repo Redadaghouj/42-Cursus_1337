@@ -25,7 +25,7 @@ Welcome to my 42/1337 projects hub! Below is a list of all my projects organized
  
   ![So_long](https://img.shields.io/badge/Status-Completed-brightgreen) ![So_long](https://img.shields.io/badge/Grade-125%2F100-success)
 
-- **[Pipex](https://github.com/Redadaghouj/42-ft_printf_1337)** : Simulating the behavior of shell pipes in C.
+- **[Pipex](https://github.com/Redadaghouj/42-Pipex_1337)** : Simulating the behavior of shell pipes in C.
 
   ![Pipex](https://img.shields.io/badge/Status-In_Progress-orange) ![Pipex](https://img.shields.io/badge/Grade-0%2F100-success)
 
