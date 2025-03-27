@@ -32,7 +32,7 @@ Welcome to my 42/1337 projects hub! Below is a list of all my projects organized
 ## Circle 03
 - **[Philosophers](https://github.com/Redadaghouj/42-Philosophers_1337)** : Solving the dining philosophers problem with threads/mutexes.
 
-  ![Philosophers](https://img.shields.io/badge/Status-In_Progress-orange) ![Philosophers](https://img.shields.io/badge/Grade-0%2F100-in-progress)
+  ![Philosophers](https://img.shields.io/badge/Status-In_Progress-orange) ![Philosophers](https://img.shields.io/badge/Grade-0%2F100-progress)
 
 
 | Project          | Status      | Description                                                  |
