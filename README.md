@@ -15,6 +15,7 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 | **push_swap**      | Completed       | Sorting algorithms with stacks.                                 |
 | **so_long**        | Completed       | Create a simple 2D game in C.                                   |
 | **pipex**          | Completed       | Simulating the behavior of shell pipes in C.                    |
+| **Philosophers**   | In Progress     | Dining philosophers problem using threads and mutexes.          |
 
 ---
 
@@ -59,5 +60,3 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 🔹 [**Philosophers**](https://github.com/Redadaghouj/42-Philosophers_1337)  
 🍝 Concurrency problem solved using POSIX threads and mutexes — handles race conditions, deadlocks, and timing constraints.  
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-progress)
-
-| **Philosophers**   | In Progress     | Dining philosophers problem using threads and mutexes.          |
