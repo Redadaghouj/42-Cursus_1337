@@ -30,7 +30,8 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 
 ## 🌀 Circle 01
 
-🔹 **Born2beroot** *(no repo link)*  
+🔹 **Born2beroot** *(no repo link)* 
+
 🛡️ A server configuration project using Debian — setting up partitions, users, firewall, and monitoring tools.  
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
 
