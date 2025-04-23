@@ -1,50 +1,6 @@
 # 🚀 42/1337 Projects Showcase
 
-Welcome to my **42/1337 School** project portfolio! This is where I document my progress through each circle with links, statuses, and project descriptions.
-
----
-
-## 🌀 Circle 00
-
-🔹 [**Libft**](https://github.com/Redadaghouj/42-Libft_1337)  
-📚 A custom library of standard C functions.  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
-
----
-
-## 🌀 Circle 01
-
-🔹 [**get_next_line**](https://github.com/Redadaghouj/42-get_next_line_1337)  
-📄 Read lines from a file descriptor—mastering buffers and memory.  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-112%2F100-success)
-
-🔹 [**ft_printf**](https://github.com/Redadaghouj/42-ft_printf_1337)  
-🖨️ A custom implementation of the `printf` function in C.  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
-
----
-
-## 🌀 Circle 02
-
-🔹 [**push_swap**](https://github.com/Redadaghouj/42-push_swap_1337)  
-🌀 Sorting numbers using stacks with minimal moves.  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
-
-🔹 [**so_long**](https://github.com/Redadaghouj/42-so_long_1337)  
-🎮 A small 2D game built using a graphical C library.  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
-
-🔹 [**pipex**](https://github.com/Redadaghouj/42-pipex_1337)  
-🔧 Simulates Unix shell pipelines using C processes and file descriptors.  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
-
----
-
-## 🌀 Circle 03
-
-🔹 [**Philosophers**](https://github.com/Redadaghouj/42-Philosophers_1337)  
-🍝 Classic concurrency problem using threads and mutexes.  
-![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-progress)
+Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and low-level programming. Here's a quick overview of the projects I've completed, followed by detailed descriptions sorted by circle.
 
 ---
 
@@ -59,4 +15,49 @@ Welcome to my **42/1337 School** project portfolio! This is where I document my 
 | **push_swap**      | Completed       | Sorting algorithms with stacks.                                 |
 | **so_long**        | Completed       | Create a simple 2D game in C.                                   |
 | **pipex**          | Completed       | Simulating the behavior of shell pipes in C.                    |
+
+---
+
+## 🌀 Circle 00
+
+🔹 [**Libft**](https://github.com/Redadaghouj/42-Libft_1337)  
+📚 Foundation project: Re-implements many C standard library functions like `strlen`, `memcpy`, `strjoin`, etc., in pure C — built to be used in later projects.  
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
+
+---
+
+## 🌀 Circle 01
+
+🔹 [**get_next_line**](https://github.com/Redadaghouj/42-get_next_line_1337)  
+📄 Implements a line-by-line reader for file descriptors, handling buffer management and memory leaks — a solid dive into low-level I/O.  
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-112%2F100-success)
+
+🔹 [**ft_printf**](https://github.com/Redadaghouj/42-ft_printf_1337)  
+🖨️ A full re-creation of the `printf` function, including variadic arguments and format specifiers like `%d`, `%x`, `%p`, and more.  
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
+
+---
+
+## 🌀 Circle 02
+
+🔹 [**push_swap**](https://github.com/Redadaghouj/42-push_swap_1337)  
+🌀 Develops an efficient sorting algorithm using only stack operations (`sa`, `pb`, `ra`, etc.) — includes algorithm optimization for minimal moves.  
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
+
+🔹 [**so_long**](https://github.com/Redadaghouj/42-so_long_1337)  
+🎮 A simple 2D graphical game written in C using the MiniLibX library — features include map parsing, character movement, and basic asset rendering.  
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
+
+🔹 [**pipex**](https://github.com/Redadaghouj/42-pipex_1337)  
+🔧 Mimics Unix pipe behavior using `fork`, `dup2`, and `execve`. Manages input/output redirection, command execution, and multi-pipe setups.  
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
+
+---
+
+## 🌀 Circle 03
+
+🔹 [**Philosophers**](https://github.com/Redadaghouj/42-Philosophers_1337)  
+🍝 Concurrency problem solved using POSIX threads and mutexes — handles race conditions, deadlocks, and timing constraints.  
+![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-progress)
+
 | **Philosophers**   | In Progress     | Dining philosophers problem using threads and mutexes.          |
