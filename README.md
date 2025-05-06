@@ -9,8 +9,7 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 | 📁 Project                                                                 | ✅ Status      | 🎯 Score    | 📌 Description                                                  |
 |---------------------------------------------------------------------------|----------------|-------------|------------------------------------------------------------------|
 | [**Libft**](https://github.com/Redadaghouj/42-Libft_1337)                 | Completed      | 125/100     | My own library of standard C functions.                          |
-| [**Born2beroot**](#) 
-*(no repo link)*                                     | Completed      | 125/100     | Setting up a secure server with Debian.                         |
+| [**Born2beroot**](#)           *(no repo link)*                                     | Completed      | 125/100     | Setting up a secure server with Debian.                         |
 | [**get_next_line**](https://github.com/Redadaghouj/42-get_next_line_1337) | Completed      | 112/100     | Reading a line from a file descriptor.                          |
 | [**ft_printf**](https://github.com/Redadaghouj/42-ft_printf_1337)         | Completed      | 125/100     | Recreating the printf function in C.                            |
 | [**push_swap**](https://github.com/Redadaghouj/42-push_swap_1337)         | Completed      | 125/100     | Sorting algorithms with stacks.                                |
