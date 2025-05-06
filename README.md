@@ -8,15 +8,15 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 
 | 📁 Project                                                                 | ✅ Status      | 🎯 Score    | 📌 Description                                                  |
 |---------------------------------------------------------------------------|----------------|-------------|------------------------------------------------------------------|
-| [**Libft**](https://github.com/Redadaghouj/42-Libft_1337)                 | Completed      | 125/100     | My own library of standard C functions.                          |
-| [**Born2beroot**](#)<br>*(no repo)*                                     | Completed      | 125/100     | Setting up a secure server with Debian.                         |
-| [**get_next_line**](https://github.com/Redadaghouj/42-get_next_line_1337) | Completed      | 112/100     | Reading a line from a file descriptor.                          |
-| [**ft_printf**](https://github.com/Redadaghouj/42-ft_printf_1337)         | Completed      | 125/100     | Recreating the printf function in C.                            |
-| [**push_swap**](https://github.com/Redadaghouj/42-push_swap_1337)         | Completed      | 125/100     | Sorting algorithms with stacks.                                |
-| [**so_long**](https://github.com/Redadaghouj/42-so_long_1337)             | Completed      | 125/100     | Create a simple 2D game in C.                                  |
-| [**pipex**](https://github.com/Redadaghouj/42-pipex_1337)                 | Completed      | 125/100     | Simulating the behavior of shell pipes in C.                   |
-| [**Philosophers**](https://github.com/Redadaghouj/42-Philosophers_1337)   | Completed      | 125/100     | Solving the dining philosophers problem with threads/mutexes.  |
-| [**minishell**](https://github.com/Redadaghouj/42-Philosophers_1337)<br>*(private repo)*      | In Progress    | 0/100     | Building a mini Unix shell: parsing input, executing commands, and handling pipes, redirections, and built-ins. |
+| [**Libft**](https://github.com/Redadaghouj/42-Libft_1337)                 |   Completed    |   125/100   | My own library of standard C functions.                          |
+| [**Born2beroot**](#)<br>*(no repo)*                                       |   Completed    |   125/100   | Setting up a secure server with Debian.                         |
+| [**get_next_line**](https://github.com/Redadaghouj/42-get_next_line_1337) |   Completed    |   112/100   | Reading a line from a file descriptor.                          |
+| [**ft_printf**](https://github.com/Redadaghouj/42-ft_printf_1337)         |   Completed    |   125/100   | Recreating the printf function in C.                            |
+| [**push_swap**](https://github.com/Redadaghouj/42-push_swap_1337)         |   Completed    |   125/100   | Sorting algorithms with stacks.                                |
+| [**so_long**](https://github.com/Redadaghouj/42-so_long_1337)             |   Completed    |   125/100   | Create a simple 2D game in C.                                  |
+| [**pipex**](https://github.com/Redadaghouj/42-pipex_1337)                 |   Completed    |   125/100   | Simulating the behavior of shell pipes in C.                   |
+| [**Philosophers**](https://github.com/Redadaghouj/42-Philosophers_1337)   |   Completed    |   125/100   | Solving the dining philosophers problem with threads/mutexes.  |
+| [**minishell**](https://github.com/Redadaghouj/42-Philosophers_1337)<br>*(private repo)*   | In Progress    | 0/100     | Building a mini Unix shell: parsing input, executing commands, and handling pipes, redirections, and built-ins. |
 
 ---
 
