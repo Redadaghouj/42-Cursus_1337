@@ -17,7 +17,7 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 | [**pipex**](https://github.com/Redadaghouj/42-pipex_1337)                 |   Completed    |   125/100   | Simulating the behavior of shell pipes in C.                   |
 | [**Philosophers**](https://github.com/Redadaghouj/42-Philosophers_1337)   |   Completed    |   125/100   | Solving the dining philosophers problem with threads/mutexes.  |
 | [**minishell**](https://github.com/Redadaghouj/42-minishell_1337) *(private repo)*   | In Progress    | 0/100     | Building a mini Unix shell: parsing input, executing commands, and handling pipes, redirections, and built-ins. |
-| [**cub3D**](https://github.com/Redadaghouj/42-cub3D_1337) *(private repo)*   | In Progress    | 0/100     | Cub3D is a raycasting-based 3D engine in C that simulates a first-person view using a 2D map. |
+| [**cub3D**](https://github.com/Redadaghouj/42-cub3D_1337) *(private repo)*   | In Progress    | 0/100     | A raycasting-based 3D engine in C that simulates a first-person view using a 2D map. |
 
 ---
 
