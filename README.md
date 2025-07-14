@@ -91,7 +91,7 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 
 ## 🌀 Circle 04
 
-🔹 [**cub3D**](https://github.com/Redadaghouj/42-cub3D_1337)  
+🔹 [**cub3D**](https://github.com/Redadaghouj/42-cub3D_1337)  *(private repo)*  
 
 🎮 Cub3D is a raycasting-based 3D engine written in C, inspired by early FPS games like Wolfenstein 3D. It renders a 3D environment from a 2D map using MiniLibX and handles player movement, textures, and collisions.
 
