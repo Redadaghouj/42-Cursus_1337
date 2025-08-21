@@ -110,5 +110,5 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 
 Each project progressively strengthens your understanding of C++ mechanics, preparing you for larger-scale applications and professional C++ development.  
 
-![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-progress)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F80-progress)
 
