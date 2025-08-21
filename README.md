@@ -98,8 +98,6 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-progress)
 
-## 🌀 Circle 05
-
 🔹 [**CPP_Modules**](https://github.com/Redadaghouj/42-CPP_Modules_1337) *(private repo)*  
 
 🎯 This repository contains the **42 C++ Modules 00–09 projects**, designed to teach modern C++ programming concepts and best practices. The modules cover:
