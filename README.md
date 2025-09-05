@@ -88,7 +88,7 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 
 💻 A full-featured shell built from scratch in C — includes parsing, executing commands, managing environment variables, handling redirections and pipes, and implementing built-in commands like `cd`, `echo`, and `exit`. A deep dive into process control, signal handling, and memory management.  
 
-![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-progress)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-0%2F100-progress)
 
 ## 🌀 Circle 04
 
