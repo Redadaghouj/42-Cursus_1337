@@ -16,7 +16,7 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 | [**so_long**](https://github.com/Redadaghouj/42-so_long_1337)             |   Completed    |   125/100   | Create a simple 2D game in C.                                  |
 | [**pipex**](https://github.com/Redadaghouj/42-pipex_1337)                 |   Completed    |   125/100   | Simulating the behavior of shell pipes in C.                   |
 | [**Philosophers**](https://github.com/Redadaghouj/42-Philosophers_1337)   |   Completed    |   125/100   | Solving the dining philosophers problem with threads/mutexes.  |
-| [**minishell**](https://github.com/Redadaghouj/42-minishell_1337)         | In Progress    | 0/100     | Building a mini Unix shell: parsing input, executing commands, and handling pipes, redirections, and built-ins. |
+| [**minishell**](https://github.com/Redadaghouj/42-minishell_1337)         |   Completed    |    0/100    | Building a mini Unix shell: parsing input, executing commands, and handling pipes, redirections, and built-ins. |
 | [**cub3D**](https://github.com/Redadaghouj/42-cub3D_1337) *(private repo)*   | In Progress    | 0/100     | A raycasting-based 3D engine in C that simulates a first-person view using a 2D map. |
 | [**CPP_Modules**](https://github.com/Redadaghouj/42-CPP_Modules_1337) *(private repo)*   | In Progress    | 0/80     | A comprehensive C++ curriculum covering OOP, memory management, and advanced STL concepts. |
 
