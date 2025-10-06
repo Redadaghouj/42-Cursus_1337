@@ -88,7 +88,7 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 
 💻 A full-featured shell built from scratch in C — includes parsing, executing commands, managing environment variables, handling redirections and pipes, and implementing built-in commands like `cd`, `echo`, and `exit`. A deep dive into process control, signal handling, and memory management.  
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-110%2F100-progress)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-110%2F100-success)
 
 ## 🌀 Circle 04
 
@@ -96,7 +96,7 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 
 🎮 Cub3D is a raycasting-based 3D engine written in C, inspired by early FPS games like Wolfenstein 3D. It renders a 3D environment from a 2D map using MiniLibX and handles player movement, textures, and collisions.
 
-![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-progress)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
 
 🔹 [**CPP_Modules**](https://github.com/Redadaghouj/42-CPP_Modules_1337)
 
