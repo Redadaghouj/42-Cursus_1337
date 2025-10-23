@@ -2,6 +2,8 @@
 
 Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and low-level programming. Here's a quick overview of the projects I've completed, followed by detailed descriptions sorted by circle.
 
+> ⚠️ **Note:** All repositories are **private** in compliance with **42 School’s academic integrity policy**. Sharing source code publicly is prohibited by 42’s rules to maintain fairness across students. However, I can provide access or discuss implementation details privately upon request.
+
 ---
 
 ## 📊 Project Overview
