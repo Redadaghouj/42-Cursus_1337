@@ -20,8 +20,9 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 | [**Philosophers**](https://github.com/Redadaghouj/42-Philosophers_1337)   |   Completed    |   125/100   | Solving the dining philosophers problem with threads/mutexes.  |
 | [**minishell**](https://github.com/Redadaghouj/42-minishell_1337)         |   Completed    |    110/100    | Building a mini Unix shell: parsing input, executing commands, and handling pipes, redirections, and built-ins. |
 | [**cub3D**](https://github.com/Redadaghouj/42-cub3D_1337)   | Completed    | 125/100     | A raycasting-based 3D engine in C that simulates a first-person view using a 2D map. |
-| [**NetPractice**](#) *(no repo)*   | In Progress	    | 0/100     | Project to learn TCP/IP basics through 10 network configuration levels. |
-| [**CPP_Modules**](https://github.com/Redadaghouj/42-CPP_Modules_1337)   | Completed    | 100/80     | A comprehensive C++ curriculum covering OOP, memory management, and advanced STL concepts. |
+| [**NetPractice**](#) *(no repo)*   | Completed	    | 100/100     | Project to learn TCP/IP basics through 10 network configuration levels. |
+| [**CPP_Modules**](https://github.com/Redadaghouj/42-CPP_Modules_1337)   | In Progress    | 50/100     | A comprehensive C++ curriculum covering OOP, memory management, and advanced STL concepts. |
+
 
 ---
 
@@ -106,7 +107,7 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 🧩 NetPractice is an interactive 42 project to learn the basics of TCP/IP networking.
 Configure and troubleshoot simulated networks across 10 levels, mastering IP addressing, subnetting, and routing.
 
-![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-100%2F100-progress)
 
 🔹 [**CPP_Modules**](https://github.com/Redadaghouj/42-CPP_Modules_1337)
 
@@ -120,5 +121,5 @@ Configure and troubleshoot simulated networks across 10 levels, mastering IP add
 
 Each project progressively strengthens your understanding of C++ mechanics, preparing you for larger-scale applications and professional C++ development.  
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-100%2F80-progress)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-50%2F100-success)
 
