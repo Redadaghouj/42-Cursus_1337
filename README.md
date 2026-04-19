@@ -138,3 +138,15 @@ Each project progressively strengthens your understanding of C++ mechanics, prep
 - **Static File Serving:** Delivering HTML, images, etc.
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-success)
+
+🔹 [**Inception**](#)
+
+🎯 This project introduces containerization and DevOps basics by building a complete web infrastructure using Docker.
+
+- **Docker & Containers:** Creating and managing isolated services.
+- **Docker Compose:** Orchestrating multiple containers (NGINX, WordPress, MariaDB).
+- **Service Configuration:** Setting up and linking backend + database.
+- **Networking & Volumes:** Managing data persistence and container communication.
+- **Security & Optimization:** Ensuring proper configuration and minimal images.
+
+![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-success)
