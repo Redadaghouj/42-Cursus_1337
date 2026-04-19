@@ -122,5 +122,17 @@ Configure and troubleshoot simulated networks across 10 levels, mastering IP add
 
 Each project progressively strengthens your understanding of C++ mechanics, preparing you for larger-scale applications and professional C++ development.  
 
-![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-50%2F100-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-100%2F100-progress)
 
+🔹 [**Webserv**](#)
+
+🎯 This project focuses on building a basic HTTP server in C++, introducing real-world networking and backend concepts.
+
+- **HTTP Basics:** Handling requests (GET, POST, DELETE) and responses.
+- **Sockets & Networking:** Managing TCP connections and multiple clients.
+- **Event Handling:** Using poll() for efficient I/O.
+- **Configuration Files:** Parsing server configs (like nginx).
+- **CGI & Dynamic Content:** Running scripts for dynamic responses.
+- **Static File Serving:** Delivering HTML, images, etc.
+
+![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-success)
