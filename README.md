@@ -23,8 +23,8 @@ Welcome to my **42/1337 School** portfolio — a journey of learning, logic, and
 | [**NetPractice**](#) *(no repo)*   | Completed	    | 100/100     | Project to learn TCP/IP basics through 10 network configuration levels. |
 | [**CPP_Modules**](https://github.com/Redadaghouj/42-CPP_Modules_1337)   | Completed    | 100/100     | A comprehensive C++ curriculum covering OOP, memory management, and advanced STL concepts. |
 | [**Webserv**](https://github.com/Redadaghouj/42-Webserv_1337)   | Completed    | 125/100     | Building mini NGINX from scratch to understand how real web servers work internally. |
-| [**Inception**](#)   | In Progress    | 0/100     | Building a complete web infrastructure using Docker. |
-
+| [**Inception**](https://github.com/Redadaghouj/42-Inception_1337)   | Completed    | 125/100     | Building a complete web infrastructure using Docker. |
+| [**ft_transcendence**](#)   | In Progress    | 0/100     | A modular full-stack web application project. |
 
 ---
 
@@ -140,7 +140,7 @@ Each project progressively strengthens your understanding of C++ mechanics, prep
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-progress)
 
-🔹 [**Inception**](#)
+🔹 [**Inception**](https://github.com/Redadaghouj/42-Inception_1337)
 
 🎯 This project introduces containerization and DevOps basics by building a complete web infrastructure using Docker.
 
@@ -149,5 +149,9 @@ Each project progressively strengthens your understanding of C++ mechanics, prep
 - **Service Configuration:** Setting up and linking backend + database.
 - **Networking & Volumes:** Managing data persistence and container communication.
 - **Security & Optimization:** Ensuring proper configuration and minimal images.
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Grade](https://img.shields.io/badge/Grade-125%2F100-success)
+
+## 🌀 Circle 06
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange) ![Grade](https://img.shields.io/badge/Grade-0%2F100-success)
